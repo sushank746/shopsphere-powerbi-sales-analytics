@@ -99,3 +99,21 @@ DimProduct ───────┤
 DimLocation ──────┤─── FactSales
                   │
 DimDate ──────────┘
+
+## 📊 Dashboard Preview
+
+### 1. Sales Overview
+
+![Sales Overview](screenshots/sales-overview.png)
+
+### 2. Customer & Product Analysis
+
+![Customer & Product Analysis](screenshots/customer-product-analysis.png)
+
+### 3. Regional & Time Analysis
+
+![Regional & Time Analysis](screenshots/regional-time-analysis.png)
+
+### 4. Executive Summary
+
+![Executive Summary](screenshots/executive-summary.png)
