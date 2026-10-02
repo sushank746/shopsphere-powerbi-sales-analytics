@@ -88,18 +88,6 @@ Contains transactional information including:
 - Day Name
 
 ---
-
-## 🔗 Data Model
-
-```text
-DimCustomer ──────┐
-                  │
-DimProduct ───────┤
-                  │
-DimLocation ──────┤─── FactSales
-                  │
-DimDate ──────────┘
-
 ## 📊 Dashboard Preview
 
 ### 1. Sales Overview
